@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_home"
+        app:showAsAction="ifRoom"
+        android:enabled="true"
+        android:icon="@drawable/home_black"
+        android:orderInCategory="0"
+        android:title="메인" />
+
+    <item
+        android:id="@+id/action_album"
+        app:showAsAction="ifRoom"
+        android:enabled="true"
+        android:icon="@drawable/settings_black"
+        android:orderInCategory="1"
+        android:title="앨범" />
+
+    <item
+        android:id="@+id/action_record"
+        app:showAsAction="ifRoom"
+        android:enabled="true"
+        android:icon="@drawable/settings_black"
+        android:orderInCategory="2"
+        android:title="기록" />
+
+    <item
+        android:id="@+id/action_schedule"
+        app:showAsAction="ifRoom"
+        android:enabled="true"
+        android:icon="@drawable/settings_black"
+        android:orderInCategory="3"
+        android:title="스케줄" />
+
+    <item
+        android:id="@+id/action_setting"
+        app:showAsAction="ifRoom"
+        android:enabled="true"
+        android:icon="@drawable/settings_black"
+        android:orderInCategory="4"
+        android:title="설정" />
+</menu>

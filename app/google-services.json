@@ -1,0 +1,72 @@
+{
+  "project_info": {
+    "project_number": "392011189488",
+    "firebase_url": "https://dudu-dd003.firebaseio.com",
+    "project_id": "dudu-dd003",
+    "storage_bucket": "dudu-dd003.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392011189488:android:8bfaf89e54ed87b4",
+        "android_client_info": {
+          "package_name": "org.palpitat.dudu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392011189488-89t97m2esbtp209qr4vsrfov5ricfbmd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.palpitat.dudu",
+            "certificate_hash": "e20475d8073d574779548945a6d60f7f89fabc0c"
+          }
+        },
+        {
+          "client_id": "392011189488-3nnfgrg4pkmrp5m6lsj635j1rhlkbnau.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.palpitat.dudu",
+            "certificate_hash": "45a059eb31c7649f83a3a312250b802a1b6cc796"
+          }
+        },
+        {
+          "client_id": "392011189488-lih3df2774e29nqc9qcef0s75rqieo9l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.palpitat.dudu",
+            "certificate_hash": "7b719c56c5167fbcd09313cc226b2526dacebd32"
+          }
+        },
+        {
+          "client_id": "392011189488-gqrin1861kq8lfj0679npnbgjrnqs6er.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.palpitat.dudu",
+            "certificate_hash": "662b65a07a95e0891d772ea41624719c36601fb1"
+          }
+        },
+        {
+          "client_id": "392011189488-ug2ahd474d28lq237r28l2cfok3re4ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLHzJoetipncFnaNqU8GNotA0NfJOb_OU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392011189488-ug2ahd474d28lq237r28l2cfok3re4ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
